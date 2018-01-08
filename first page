@@ -1,0 +1,41 @@
+<head>
+  <title>Tech Demo</title>
+  <style>
+    body {
+      text-align: center;
+      background: orange;
+      background-size: cover;
+      background-position: center;
+      color: gray;
+      font-family: "Comic Sans MS";
+    }
+    p {
+      font-size: 53px;
+    }
+    input {
+      border: 10;
+      padding: 20px;
+      font-size: 18px;
+  }
+  input[type="submit"] {
+    background: red;
+    color: white;
+  }
+  </style>
+</head>
+<body>
+<h1>Hello World!</h1>
+  <img src="https://preview.ibb.co/eOXVu5/computer_gif.gif"/>
+  <p>My first coding project.</p>
+  <input type="Text" placeholder="First Name">
+  <input type="text" placeholder="Last Name">
+</br>
+<ol>
+<li><a href="https://github.com" target="_blank">Click Here to go to Github!</a></li>
+</br>
+<li><a href="http://slack.com" target="_blank">Click Here to go to Slack!</a></li>
+</br>
+<li><a href="http://www.google.com" target="_blank">Go to google!</a></li>
+</ol
+
+  </body>
